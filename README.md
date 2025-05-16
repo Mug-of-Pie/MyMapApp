@@ -7,25 +7,25 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-   ```bash
+   ```
    git clone https://github.com/Mug-of-Pie/MyMapApp.git
-````
+   ```
 
 2. Перейдите в директорию проекта:
 
-   ```bash
+   ```
    cd map-app
    ```
 
 3. Установите зависимости:
 
-   ```bash
+   ```
    npm install
    ```
 
 4. Запустите проект:
 
-   ```bash
+   ```
    npx expo start
    ```
 
@@ -141,10 +141,3 @@ CREATE TABLE IF NOT EXISTS marker_images (
 ## Видео демонстрация
 
 https://drive.google.com/file/d/1cr2iGieguGKE6bx5HQv0BQHgCkRxlHee/view?usp=sharing
-
-```
-
----
-
-Готов обновлять следующий файл!
-```
